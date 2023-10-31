@@ -32,4 +32,4 @@ https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/8d38f647-b5de-411
 
 Başarılı bir şekilde paketi gönderdik:
 
-![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/a2548d53-5561-4b7b-b764-9ea7643e2558)
+![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/e19cd2f5-42c0-412c-92cf-71506599db7b)
