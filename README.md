@@ -22,7 +22,7 @@ Bu şifreyi telefona/laptopa da yazmanız gerekmektedir yoksa bağlanmayacaktır
 
 
 
-Normal de Laptop da sadece ethernet kartı olur bunun için laptopu kapatıp **PT-LAPTOP-NM-1W** parçasını takmanız gerekiyor.
+**Önemli:** Normal de Laptop da sadece ethernet kartı olur bunun için laptopu kapatıp **PT-LAPTOP-NM-1W** parçasını takmanız gerekiyor.
 
 ![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/d55c1648-efc5-4fec-8c09-c5b0d5a6fb0c)
 
