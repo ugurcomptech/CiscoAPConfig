@@ -8,6 +8,20 @@ Burada ki görsel de "star topolojisi" ile yapılmış basit bir yönlendirme g�
 - Manisa tarafında  AP'ye bir tane telefon bağlı
 - Balıkesir tarafında AP'ye bir tane laptop bağlı
 
+
+## AP Yapılandırması 
+
+Access Pointinize şifre koymazsanız simulasyon yaparken başka bir yerde ki telefon/laptop bağlanabilir ve sorun çıkarabilir.
+
+![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/ea982aed-626f-4b1f-ae13-7f75fbe613f0)
+
+
+Bu şifreyi telefona/laptopa da yazmanız gerekmektedir yoksa bağlanmayacaktır.
+
+![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/106a37bf-282f-4b4a-b00f-27ed85838d9f)
+
+
+
 Normal de Laptop da sadece ethernet kartı olur bunun için laptopu kapatıp **PT-LAPTOP-NM-1W** parçasını takmanız gerekiyor.
 
 ![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/d55c1648-efc5-4fec-8c09-c5b0d5a6fb0c)
