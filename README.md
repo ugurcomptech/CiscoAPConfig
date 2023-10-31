@@ -5,7 +5,7 @@
 
 Burada ki görsel de "star topolojisi" ile yapılmış basit bir yönlendirme görüyorsunuz. Manisa ve Balıkesir tarafında da birer tane access point var.
 
-- Manisa tarafında ki AP'ye bir tane telefon bağlı
+- Manisa tarafında  AP'ye bir tane telefon bağlı
 - Balıkesir tarafında AP'ye bir tane laptop bağlı
 
 Normal de Laptop da sadece ethernet kartı olur bunun için laptopu kapatıp **PT-LAPTOP-NM-1W** parçasını takmanız gerekiyor.
