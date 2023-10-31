@@ -11,3 +11,13 @@ Burada ki görsel de "star topolojisi" ile yapılmış basit bir yönlendirme g�
 Normal de Laptop da sadece ethernet kartı olur bunun için laptopu kapatıp **PT-LAPTOP-NM-1W** parçasını takmanız gerekiyor.
 
 ![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/d55c1648-efc5-4fec-8c09-c5b0d5a6fb0c)
+
+
+IP Config ayarlarına geliyoruz ve yapılandırmalarımızı yapıyoruz.
+
+
+## Laptop
+![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/61498569-4916-4dcf-bdca-77224ff2a20c)
+
+## Telefon
+![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/bc21c4de-a119-47f5-a51c-6b765e866503)
