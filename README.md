@@ -3,8 +3,10 @@
 ![image](https://github.com/ugurcomptech/CiscoAPConfig/assets/133202238/9606a193-ce6c-418f-a1c9-1b97497bf2c4)
 
 
-Burada ki görsel de "star topolojisi" ile yapılmış basit bir yönlendirme görüyorsunuz. Manisa ve Balıkesir tarafında da birer tane access point var.
+Burada ki görsel de "star topolojisi" ile yapılmış basit bir yönlendirme görüyorsunuz.  
 
+- Manisada 4 tane bilgisayar, 1 tane telefon, 1 tane AP var
+- Balıkesirde 5 tane bilgisayar, 1 tane printer, 1 tane AP var
 - Manisa tarafında  AP'ye bir tane telefon bağlı
 - Balıkesir tarafında AP'ye bir tane laptop bağlı
 
